@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Circuit Lab
+
+**Embryo Circuit Lab** is Embryo-Zero's fork of [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![Logisim-evolution](docs/img/logisim-evolution-logo.png)](https://github.com/logisim-evolution/logisim-evolution)
 
 ---
